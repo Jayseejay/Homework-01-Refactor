@@ -13,5 +13,3 @@ a different color from the the rest of the word so for example: Hori<color-chang
 5.When attempting to refactor the code the background-image under the div tag "hero", I need to change the URL in the stylesheet to the direct file path in order for the image to load.
 
 6.There multiple lines of code that could use redactoring, in order to reduce the amount of duplicate code in the CSS stylesheet.
-
-7.
